@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hi, I'm Adrian 
+# 🙋‍♂️ Hi, I'm Adrian 
 
 I am a 2025 graduate from the University of Sydney and purusing a career in Data Analytics.
 

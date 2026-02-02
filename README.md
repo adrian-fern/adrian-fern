@@ -2,7 +2,8 @@
 
 I am a 2025 graduate from the University of Sydney and am purusing a career in Data Analytics.
 
-
+- Completed a Bachelor of Science with a major in Mathematics and minor Physics.
+- Relevant Coursework includes: Mathematical Computing, Introduction to Data Science, Optimisation and Financial Mathematics.
 
 <!--
 **adrian-fern/adrian-fern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

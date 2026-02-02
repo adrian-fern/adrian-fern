@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Adrian 🙋‍♂️
+
+I am a 2025 graduate from the University of Sydney and am purusing a career in Data Analytics.
+
+
 
 <!--
 **adrian-fern/adrian-fern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

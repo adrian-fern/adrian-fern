@@ -2,25 +2,11 @@
 
 I am a 2025 graduate from the University of Sydney and purusing a career in Data Analytics.
 
-- Completed a Bachelor of Science with a major in Mathematics and minor Physics.
-- Relevant Coursework includes: Mathematical Computing, Introduction to Data Science, Optimisation and Financial Mathematics.
-- I have experience in data management using Python and Rstudio.
+- 🎓 Completed a Bachelor of Science with a major in Mathematics and minor Physics. 
+- 📚 Relevant Coursework includes: Mathematical Computing, Introduction to Data Science, Optimisation and Financial Mathematics. 
+- 💻 I have experience in data management using Python and Rstudio.
 
 Feel free to browse through my portfolio.
 
 You can find me on LinkedIn [here](https://www.linkedin.com/in/adrian-fern/)
 
-<!--
-**adrian-fern/adrian-fern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
